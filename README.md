@@ -3,9 +3,9 @@ Gas Leakage monitoring &amp; Alerting system for Industries
 ---------------------------------
 Team Leader : Hemachandhar. N   |
 Team Member 1 : Keerthana . R   |
-Team Member 2 : Charudesana     |
+Team Member 2 : Charudesna .K   |
 Team Member 3 : Dharshini . S   |
-----------------------------------
+---------------------------------
 
 Content:-
 
