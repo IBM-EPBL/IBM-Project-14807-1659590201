@@ -11,5 +11,6 @@ Content:-
 
 A) Assignments
 1) Assignments 1 : Smart home automation
-2) IBM Empathy Map
-3) Literature Survey
+B)Ideation
+1) IBM Empathy Map
+2) Literature Survey
