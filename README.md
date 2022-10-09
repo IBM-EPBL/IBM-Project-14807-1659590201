@@ -12,6 +12,7 @@ Content:-
 A) Assignments
 1) Assignments 1 : Smart home automation
 2) Assignments 2 : temperature and humidity values
+3) Assignments 3 : Write a python code to blink LED for Raspberry pi
 
 B)Ideation
 1) IBM Empathy Map
