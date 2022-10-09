@@ -17,3 +17,8 @@ B)Ideation
 1) IBM Empathy Map
 2) Literature Survey
 3) Ideation
+
+C)Project phase-1
+1)Problem_solution_fit 
+2)Proposed Solution
+3)solution architecture
