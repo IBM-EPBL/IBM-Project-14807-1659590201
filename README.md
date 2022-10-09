@@ -23,3 +23,6 @@ C) Project phase-1
 1) Problem_solution_fit 
 2) Proposed Solution
 3) solution architecture
+
+D) Project phase-2
+1) Customer Journey
