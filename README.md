@@ -19,6 +19,6 @@ B)Ideation
 3) Ideation
 
 C)Project phase-1
-1)Problem_solution_fit 
-2)Proposed Solution
-3)solution architecture
+1) Problem_solution_fit 
+2) Proposed Solution
+3) solution architecture
